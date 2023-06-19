@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 4,
+      "name": "boné",
+      "price": 49.9
+    },
+    {
+      "name": "Camisa Palmeiras",
+      "price": "300,00",
+      "id": 5
+    },
+    {
+      "name": "Camisa do Corinthians",
+      "price": "-25,00",
+      "id": 6
+    },
+    {
+      "name": "Camisa Palmeiras",
+      "price": "300,00",
+      "id": 7
+    },
+    {
+      "name": "bermuda",
+      "price": "85,00",
+      "id": 8
+    },
+    {
+      "name": "",
+      "price": "",
+      "id": 9
+    },
+    {
+      "name": "",
+      "price": "",
+      "id": 10
+    },
+    {
+      "name": "Camisa Palmeiras",
+      "price": "300,00",
+      "id": 11
+    }
+  ]
+}
